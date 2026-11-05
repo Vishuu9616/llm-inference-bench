@@ -20,7 +20,7 @@ measuring serving trade-offs instead of guessing them.
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/llm-inference-bench
+git clone https://github.com/Vishu9616/llm-inference-bench
 cd llm-inference-bench
 pip install -r requirements.txt
 
