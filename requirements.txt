@@ -1,0 +1,6 @@
+httpx>=0.27
+pandas>=2.0
+matplotlib>=3.8
+# optional, for the local mock server in tests/
+fastapi>=0.110
+uvicorn>=0.29
